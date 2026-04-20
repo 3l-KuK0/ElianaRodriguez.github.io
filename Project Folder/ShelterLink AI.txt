@@ -1,0 +1,41 @@
+ShelterLink AI
+
+Problem Description:
+Homeless individuals often struggle to find nearby shelters, food, and basic services. Information is scattered, outdated, or hard to access, especially without reliable internet or transportation. This leads to people missing out on help that could improve their situation.
+AI Solution:
+What it does – ShelterLink AI helps people quickly find nearby shelters, food banks, and support services.
+How it works – 
+•	Uses location data (GPS or city input.)
+•	AI searches and organizes available resources nearby.
+•	Recommends the best options based on availability, distance, and needs (food, beds, healthcare.)
+•	Can update in real-time if the shelter is full.
+Who uses it:
+•	Homeless individuals
+•	Social workers
+•	Nonprofit organizations
+Implementation Plan:
+Tools –
+•	HTML/CSS (my website)
+•	JavaScript (for interactive features)
+•	Google Maps API (to show locations)
+•	Basic AI logic (you explain it conceptually)
+Data needed –
+•	Shelter locations
+•	Food banks
+•	Availability (if possible)
+•	Public datasets from cities or nonprofits
+Step-by-step –
+1.	Collect data on local shelters and services
+2.	Use AI to organize and rank resources
+3.	Build a website where users enter location
+4.	Display nearby help with directions
+Expected Impact: 
+•	Helps people find help faster
+•	Reduces time spent searching for resources
+•	Supports nonprofits by connecting them with people in need
+•	Could potentially save lives
+Ethics & Challenges:
+•	Privacy – protecting user location data
+•	Accuracy - information must be updated (shelters fill up)
+•	Accessibility – users may not have phones or internet
+•	Bias – Ai must not prioritize certain areas unfairly
